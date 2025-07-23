@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: backstage
-        image: plminha13/backstage:v1
+        image: plminha13/backstage:v2
         ports:
         - containerPort: 7007
         env:

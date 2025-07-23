@@ -50,7 +50,7 @@ catalog:
         - allow: [Group]
 
     - type: url
-      target: https://github.com/ricardoandre97/backstage-software-templates/blob/main/python-app/template.yaml
+      target: https://github.com/minhpham95/backstage-software-templates/blob/main/python-app/template.yaml
       rules:
         - allow: [Template]
 
